@@ -1,1 +1,1 @@
-# foto-combine.github.io
+# foto-combine
